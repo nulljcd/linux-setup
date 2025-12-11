@@ -25,11 +25,11 @@ bindsym $mod+f fullscreen
 bindsym $mod+space floating toggle
 
 bindsym $mod+1 exec foot
-bindsym $mod+2 exec nm-connection-editor
-bindsym $mod+3 exec pavucontrol
-bindsym $mod+4 exec thunar
-bindsym $mod+5 exec qutebrowser
-bindsym $mod+6 exec codium --ozone-platform=wayland
+bindsym $mod+2 exec thunar
+bindsym $mod+3 exec qutebrowser
+bindsym $mod+4 exec codium --ozone-platform=wayland
+bindsym $mod+0 exec nm-connection-editor
+bindsym $mod+9 exec pavucontrol
 
 mode "resize" {
     bindsym Left resize shrink width 10px
