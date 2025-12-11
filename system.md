@@ -5,6 +5,7 @@
   - pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol
   - brightnessctl
   - ufw
+  - btop
   - thunar
   - qutebrowser
   - vscodium
