@@ -1,7 +1,6 @@
 - operating system: debian
-- window compositor: sway
-- main packages
-  - foot
+- packages
+  - sway
   - network-manager network-manager-gnome (disable primary network interface in /etc/network/interfaces)
   - pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol
   - ufw
